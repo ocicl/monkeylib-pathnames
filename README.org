@@ -1,0 +1,10 @@
+* monkeylib-pathnames
+
+My pathname functions. The basis for cl-fad.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-pathnames.git   |
+| commit  | 646687e  |
+| systems | monkeylib-pathnames |
+|---------+-------------------------------------------|
+
